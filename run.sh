@@ -1,0 +1,1 @@
+python gen_ecg_image_from_data.py -i ./PTB_XL_data/00001_lr.dat -hea ./PTB_XL_data/00001_lr.hea -o ./out -st -1 -ph
